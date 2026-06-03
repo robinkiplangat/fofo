@@ -1,0 +1,22 @@
+## General
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+*.swo
+
+## Build / cache
+dist/
+build/
+out/
+tmp/
+cache/
+
+## Environment
+.env
+.env.*
+
+## Editor / IDE
+.vscode/
+.idea/
